@@ -7,3 +7,4 @@ b=20
 print('a=',a)
 print('b=',b)
 print('a+b=',a+b)
+print("Namaste world")
